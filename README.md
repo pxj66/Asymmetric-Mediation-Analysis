@@ -1,10 +1,12 @@
 # Asymmetric-Mediation-Analysis
 R code for Robust Mediation Analysis with Asymmetric Loss
-File list:
+
+## File list:
   1) ***rlmskew.R***: Robust linear regression for skewed data
   2) ***Basic Functions.R***: Basic functions required by rlmskew.R
   3) ***Example.R***: An example for using the rlmskew() function
   4) ***Simulation***:
+     
      a) ***MSE.R***: runing procedure for mean square error for efficiency
      
      b) ***Testing.R***: runing procedure for type I error rate and statistical power, Sobel-type and percentile bootstrap confidence intervals
@@ -16,6 +18,7 @@ File list:
      e) ***Method.R***: two functions for bootstrapping, different approach, Sobel-type confidence interval
      
   6) ***Real Data Analysis***:
+     
      a) ***LPACOG.rda***: Data for light physical activity and cognitive function study
      
      b) ***LPACOG-V0.rda***: Data for light physical activity and cognitive function study when perceived control is divided into personal mastery and perceived constaints.
