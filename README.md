@@ -5,7 +5,7 @@ File list:
   2) Basic Functions.R: Basic functions required by rlmskew.R
   3) Example.R: An example for using the rlmskew() function
   4) Simulation:
-     a) MSE.R: runing procedure for mean square error for efficiency
+     ## MSE.R: runing procedure for mean square error for efficiency
      b) Testing.R: runing procedure for type I error rate and statistical power, Sobel-type and percentile bootstrap confidence intervals
      c) DGPs.R: data generation progress
      d) LocalInfRobustMediation.R: local influence (LI) and robust transformation (RT) approaches from Zu and Yuan (2010, MBR) Local influence and robust procedures for mediation analysis.
